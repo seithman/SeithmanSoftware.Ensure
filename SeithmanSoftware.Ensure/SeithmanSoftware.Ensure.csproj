@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net5.0;netcoreapp3.1;netstandard2.1;net462</TargetFrameworks>
+    <PackageId>SeithmanSoftware.Ensure</PackageId>
+    <Version>1.0.0</Version>
+    <Author>Jarred L. Harris</Author>
+    <Company>Seithman Software</Company>
+    <PackageVersion>1.0.0</PackageVersion>
+    <PackageDescription>This package providers static class that performs various checks typically used to test input parameters to a method. The tests each throw an EnsureBaseException on failure.</PackageDescription>
+    <RepositoryUrl>https://github.com/seithman/SeithmanSoftwarePackages</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
