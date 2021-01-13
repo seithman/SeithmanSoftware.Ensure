@@ -8,7 +8,8 @@
     <Company>Seithman Software</Company>
     <PackageVersion>1.0.0</PackageVersion>
     <PackageDescription>This package providers static class that performs various checks typically used to test input parameters to a method. The tests each throw an EnsureBaseException on failure.</PackageDescription>
-    <RepositoryUrl>https://github.com/seithman/SeithmanSoftwarePackages</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/seithman/SeithmanSoftware.Ensure</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/seithman/SeithmanSoftware.Ensure</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
